@@ -1,4 +1,4 @@
-<h1>Hi, I'm Steven Broussard! <br/><a href="https://github.com/joshmadakor1">Media Investment Marketing Professional</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Georgetown University M.S Business Analytics Candidate</a>, <a href="https://www.youtube.com/c/joshmadakor">Data Analyst</a></h1>
+<h1>Hi, I'm Steven Broussard! <br/><a href="https://github.com/joshmadakor1">Marketing Professional</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Georgetown University M.S Business Analytics Candidate</a>, <a href="https://www.youtube.com/c/joshmadakor">Data Analyst</a></h1>
 
 <h2>👨‍💻 Consulting Analysis Projects:</h2>
 
