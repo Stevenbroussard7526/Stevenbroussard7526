@@ -12,7 +12,7 @@
 - [Ebay Auction Data Analysis - R Programming](https://github.com/Stevenbroussard7526/eBay_auctions_R_Analysis)
 - [World Data Analysis - R Programming](https://github.com/Stevenbroussard7526/WorldData_DataAnalysis_R/tree/main)
 - [Web Analytics Data Analysis - R Programming](https://github.com/Stevenbroussard7526/Webanalytics_R)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- [Toyota Multiple Regression Model Data Analysis](https://github.com/Stevenbroussard7526/Toyota_Multiple-Regression-Model_R)
 
 <h2> 🤳 Connect with me:</h2>
 
