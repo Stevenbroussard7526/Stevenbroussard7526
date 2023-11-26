@@ -9,7 +9,7 @@
 <h2> Ad-Hoc Coding Projects/Analysis </h2>
 
 
-- [Ebay Auction Data Analysis - R Programming](https://www.youtube.com/watch?v=uHy3oM7NnoU)
+- [Ebay Auction Data Analysis - R Programming](https://github.com/Stevenbroussard7526/eBay_auctions_R_Analysis)
 - [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
 - [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
 - [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
