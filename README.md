@@ -3,6 +3,7 @@
 <h2>👨‍💻 Consulting Analysis Projects:</h2>
 
 - <b>Linear Regression Model</b>
+  - - [BSR Insurance Consulting Project](https://github.com/Stevenbroussard7526/Tableau_BSRInsurance_ConsultingProject)
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Logistic Regression Model</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
@@ -18,7 +19,7 @@
 
 <h2> Data Visualization Tableau Projects </h2>
 
-- [BSR Insurance Consulting Project](https://github.com/Stevenbroussard7526/Tableau_BSRInsurance_ConsultingProject)
+
 - [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
 - [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
 - [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
