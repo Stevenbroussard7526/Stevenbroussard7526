@@ -5,6 +5,7 @@
   - [BSR Insurance Consulting Project - Tableau](https://github.com/Stevenbroussard7526/Tableau_BSRInsurance_ConsultingProject)
   - [AirBnb Listing Analysis (Washington D.C.) - R Programming](https://github.com/Stevenbroussard7526/WashingtonDC_Listing_Analysis)
   - [Bike Share Data - Machine Learning Linear Regression Model - R Programming](https://github.com/Stevenbroussard7526/BikeShareData_MachineLearning)
+  - [Machine Leanring LinkedIn Application, A Predictive Model - Python, Command Line, Git, Streamlit](https://github.com/Stevenbroussard7526/Machine_Learning_LinkedIn_Application)
 
 <h2> Ad-Hoc Coding Projects/Analysis </h2>
 
